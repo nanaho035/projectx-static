@@ -1,0 +1,5 @@
+{
+  "name": "Static Site with Theme Toggle",
+  "description": "A simple, clean, mobile-first static website built with React and Tailwind CSS. It features a dark/light theme toggle with preferences saved to localStorage.",
+  "requestFramePermissions": []
+}
